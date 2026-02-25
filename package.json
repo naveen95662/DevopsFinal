@@ -1,0 +1,16 @@
+{
+  "name": "devops-capstone",
+  "version": "1.0.0",
+  "description": "Devops capstone project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Naveen",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
