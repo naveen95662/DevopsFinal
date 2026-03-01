@@ -8,7 +8,7 @@ pipeline {
         // Uses the Jenkins Build Number as a unique tag
         IMAGE_TAG = "${env.BUILD_ID}"
         // This MUST match the Credential ID you created in Jenkins
-        DOCKER_CREDS_ID = '1e4f0cbc-1ab3-414f-999b-c321cab9790f'
+        DOCKER_CREDS_ID = 'dockerhubcreds'
     }
 
     stages {
