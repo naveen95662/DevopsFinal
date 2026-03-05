@@ -1,7 +1,7 @@
 AWS DevOps Capstone: Automated CI/CD & Monitoring Pipeline
 
 Project Description
-This project demonstrates a production-ready DevOps lifecycle for a Node.js application. It automates the process of taking code from a repository, containerizing it with Docker, and deploying it to an AWS EC2 instance using Jenkins. To ensure "Day 2" operational stability, the project includes a full monitoring stack (Prometheus & Grafana) and automated system maintenance scripts.
+**This project demonstrates a production-ready DevOps lifecycle for a Node.js application. It automates the process of taking code from a repository, containerizing it with Docker, and deploying it to an AWS EC2 instance using Jenkins. To ensure "Day 2" operational stability, the project includes a full monitoring stack (Prometheus & Grafana) and automated system maintenance scripts.**
 -----------------------------------------------------------------------
 Tech Stack:
 
